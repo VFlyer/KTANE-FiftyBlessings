@@ -149,7 +149,8 @@ public class FiftyBlessingsScript : MonoBehaviour {
 
         callOrder = Rnd.Range(0, 2);
 
-        pathsA[0] = new string[] { "A1", "A2", "A3", "A4", "B1", "B3", "C4" };
+        // Letter as Row, Number as Column
+        pathsA[0] = new string[] { "A1", "A2", "A3", "A4", "B1", "B3", "C3" };
         pathsA[1] = new string[] { "B2", "C1", "C2" };
         pathsA[2] = new string[] { "A5", "B4", "B5", "C4", "E5" };
         pathsA[3] = new string[] { "C5", "D1", "D4", "D5", "E3", "E4" };

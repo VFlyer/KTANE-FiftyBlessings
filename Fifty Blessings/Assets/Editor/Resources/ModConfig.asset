@@ -30,6 +30,6 @@ MonoBehaviour:
 
     If you encounter any bugs, ping @igster!#6242 in the #mod-bug-reports channel
     on the KTaNE Discord Server.'
-  version: 1.0
+  version: 1.0.01
   outputFolder: build
   previewImage: {fileID: 2800000, guid: be1bb1d23f581714498952d3b9aa5f3e, type: 3}
